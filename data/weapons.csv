@@ -1,0 +1,4 @@
+weapon,damage,rpm,magazine,gap,status
+R-301,13,810,21,3.2,historical_reference_partial_reconstruction
+Flatline,18,600,19,3.1,historical_reference_partial_reconstruction
+CAR,13,930,19,2.13,historical_reference_partial_reconstruction

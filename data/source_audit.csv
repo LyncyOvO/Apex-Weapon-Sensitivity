@@ -1,0 +1,25 @@
+id,field,value,status,source,note
+r301,damage,14,official_patch_value,https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes,
+r301,old_damage,13,official_patch_value,https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes,
+r301,rpm,810,later_report_assumed_historical_applicability,https://tracker-nation.com/en/apex/waffen/r-301-carbine,
+r301,base,21,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+r301,white,23,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+r301,blue,28,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+r301,purple,31,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+r301,gap,3.2,later_report_assumed_historical_applicability,https://tracker-nation.com/en/apex/waffen/r-301-carbine,Empty-reload report used as last-shot-to-next-mag-first-shot gap proxy; no timing measurement
+flatline,damage,19,official_patch_value,https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes,
+flatline,old_damage,18,official_patch_value,https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes,
+flatline,rpm,600,later_report_assumed_historical_applicability,https://tracker-nation.com/en/apex/waffen/vk-47-flatline,
+flatline,base,19,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+flatline,white,23,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+flatline,blue,27,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+flatline,purple,29,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+flatline,gap,3.1,later_report_assumed_historical_applicability,https://tracker-nation.com/en/apex/waffen/vk-47-flatline,Empty-reload report used as last-shot-to-next-mag-first-shot gap proxy; no timing measurement
+car,damage,14,official_patch_value,https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes,
+car,old_damage,13,official_patch_value,https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes,
+car,rpm,930,later_report_assumed_historical_applicability,https://tracker-nation.com/en/apex/waffen/c-a-r-smg,
+car,base,19,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+car,white,22,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+car,blue,24,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+car,purple,27,official_earlier_value_carried_forward,https://www.ea.com/games/apex-legends/apex-legends/news/shockwave-patch-notes,Not a complete audit of all intervening hotfixes
+car,gap,2.13,later_report_assumed_historical_applicability,https://tracker-nation.com/en/apex/waffen/c-a-r-smg,Empty-reload report used as last-shot-to-next-mag-first-shot gap proxy; no timing measurement

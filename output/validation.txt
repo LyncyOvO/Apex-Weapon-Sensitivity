@@ -1,0 +1,5 @@
+PASS: 96 IID scenarios; 100000 trials each.
+PASS: mean time and score within six simulation standard errors.
+PASS: independent interval integral; deterministic p=1; reload identity.
+PASS: two beta-binomial simulation checks.
+These checks verify implementation, not empirical validity.
